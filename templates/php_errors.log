@@ -1,0 +1,12 @@
+[08-Feb-2017 04:27:26 UTC] PHP Warning:  include(templates/includes/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/templates/admin/login.php on line 1
+[08-Feb-2017 04:27:26 UTC] PHP Stack trace:
+[08-Feb-2017 04:27:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/templates/admin/login.php:0
+[08-Feb-2017 04:27:26 UTC] PHP Warning:  include(): Failed opening 'templates/includes/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/templates/admin/login.php on line 1
+[08-Feb-2017 04:27:26 UTC] PHP Stack trace:
+[08-Feb-2017 04:27:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/templates/admin/login.php:0
+[08-Feb-2017 04:27:26 UTC] PHP Warning:  include(templates/includes/footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/templates/admin/login.php on line 30
+[08-Feb-2017 04:27:26 UTC] PHP Stack trace:
+[08-Feb-2017 04:27:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/templates/admin/login.php:0
+[08-Feb-2017 04:27:26 UTC] PHP Warning:  include(): Failed opening 'templates/includes/footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/templates/admin/login.php on line 30
+[08-Feb-2017 04:27:26 UTC] PHP Stack trace:
+[08-Feb-2017 04:27:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/templates/admin/login.php:0
